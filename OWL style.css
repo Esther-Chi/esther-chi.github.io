@@ -1,0 +1,109 @@
+
+header {
+    background-color:#cc0000;
+    color:white;
+	font-weight: bold;
+    text-align:center;
+    padding:5px;
+}
+
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+
+li{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:250px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:black;
+}
+
+nav {
+	position:fixed;
+	font-size:18px;
+	padding:200px 0 0 1150px;
+	font-weight:700;
+	line-height:50px;
+	color:#cc0000;
+}
+
+
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+
+p {
+    background: #fff;
+	opacity: 0.85;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 0 2em;
+}
+
+h2 {
+    font-family: 'Comic Sans MS', serif;
+    font-size: 25px;
+	font-weight: bold;
+	color:#545454;
+    text-align:center;
+    margin-top: 20px;
+    margin: 0 auto;
+	margin-top: 1.3em;
+	padding: 1em 0 1em 5em;
+}
+
+
+ h3 {
+	  background: transparent;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 2;
+    margin: 0 auto;
+    max-width: 800px;
+    font-weight: 600;
+	padding: 2em 2em 0 2em;
+}
+
+ h4 {
+	  background: transparent;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    margin: 0 auto;
+    max-width: 800px;
+    font-weight: 600;
+	padding: 2em 2em 0 2em;
+}
+
+
+
+
